@@ -14,4 +14,4 @@ int main() {
     cout << "Sum of first " << n << " natural numbers = " << sum;
 
     return 0;
-}
+}  
