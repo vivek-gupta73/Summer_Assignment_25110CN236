@@ -21,4 +21,5 @@ int main() {
         cout << "Not a palindrome number";
 
     return 0;
-}
+}  
+
